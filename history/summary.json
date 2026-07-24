@@ -1,12 +1,12 @@
 [
   {
-    "name": "Google",
-    "url": "https://be",
-    "icon": "https://icons.duckduckgo.com/ip3/be.ico",
-    "slug": "google",
-    "status": "down",
+    "name": "Beignet API",
+    "url": "https://beignet-api.wisp.uno/",
+    "icon": "https://icons.duckduckgo.com/ip3/beignet-api.wisp.uno.ico",
+    "slug": "beignet-api",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,8 +15,6 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2026-07-24": 0
-    }
+    "dailyMinutesDown": {}
   }
 ]
