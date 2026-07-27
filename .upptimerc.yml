@@ -5,6 +5,11 @@ repo: uptime # The name of this repository
 sites:
   - name: Beignet API
     url: https://beignet-api.wisp.uno/
+  - name: Beignet API (backup)
+    url: http://beignet.deez.nz:15037/static/Loader.luau
+
+assignees:
+  - jacklebeignet
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
