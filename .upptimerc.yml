@@ -6,7 +6,7 @@ sites:
   - name: Beignet API
     url: https://beignet-api.wisp.uno/
   - name: Beignet API (backup)
-    url: http://beignet.deez.nz:15037/static/Loader.luau
+    url: http://beignet.deez.nz:15037/
 
 assignees:
   - jacklebeignet
