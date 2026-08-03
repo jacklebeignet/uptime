@@ -4,12 +4,12 @@
     "url": "https://beignet-api.wisp.uno/",
     "icon": "https://icons.duckduckgo.com/ip3/beignet-api.wisp.uno.ico",
     "slug": "beignet-api",
-    "status": "up",
-    "uptime": "94.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.84%",
-    "uptimeMonth": "94.76%",
-    "uptimeYear": "94.76%",
+    "status": "down",
+    "uptime": "94.96%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "96.79%",
+    "uptimeMonth": "94.96%",
+    "uptimeYear": "94.96%",
     "time": 661,
     "timeDay": 765,
     "timeWeek": 734,
@@ -21,7 +21,8 @@
       "2026-07-26": 237,
       "2026-07-30": 66,
       "2026-07-31": 196,
-      "2026-08-01": 57
+      "2026-08-01": 57,
+      "2026-08-03": 5
     }
   },
   {
@@ -29,7 +30,7 @@
     "url": "http://beignet.deez.nz:15037/",
     "icon": "https://icons.duckduckgo.com/ip3/beignet.deez.nz.ico",
     "slug": "beignet-api-backup",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
