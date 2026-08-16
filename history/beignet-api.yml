@@ -1,7 +1,7 @@
-url: https://beignet-api.wisp.uno/
+url: https://beignet-api.wisp.uno/status
 status: up
-code: 200
-responseTime: 723
-lastUpdated: 2026-08-16T18:31:55.986Z
+code: 204
+responseTime: 1417
+lastUpdated: 2026-08-16T21:51:02.042Z
 startTime: 2026-07-24T14:09:46.685Z
 generator: Upptime <https://github.com/upptime/upptime>
