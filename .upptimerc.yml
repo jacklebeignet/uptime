@@ -4,9 +4,9 @@ repo: uptime # The name of this repository
 
 sites:
   - name: Beignet API
-    url: https://beignet-api.wisp.uno/
+    url: https://beignet-api.wisp.uno/status
   - name: Beignet API (backup)
-    url: http://beignet.deez.nz:15037/
+    url: http://beignet.deez.nz:15037/status
 
 assignees:
   - jacklebeignet
