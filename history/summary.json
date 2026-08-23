@@ -4,17 +4,17 @@
     "url": "https://beignet-api.wisp.uno/",
     "icon": "https://icons.duckduckgo.com/ip3/beignet-api.wisp.uno.ico",
     "slug": "beignet-api",
-    "status": "down",
-    "uptime": "96.60%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "96.60%",
-    "uptimeYear": "96.60%",
-    "time": 3517,
-    "timeDay": 10199,
-    "timeWeek": 6116,
-    "timeMonth": 3517,
-    "timeYear": 3517,
+    "status": "up",
+    "uptime": "96.57%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.11%",
+    "uptimeMonth": "96.57%",
+    "uptimeYear": "96.57%",
+    "time": 3481,
+    "timeDay": 7141,
+    "timeWeek": 5816,
+    "timeMonth": 3481,
+    "timeYear": 3481,
     "dailyMinutesDown": {
       "2026-07-24": 103,
       "2026-07-25": 61,
@@ -28,7 +28,8 @@
       "2026-08-16": 179,
       "2026-08-17": 24,
       "2026-08-18": 36,
-      "2026-08-21": 16
+      "2026-08-21": 16,
+      "2026-08-23": 13
     }
   },
   {
