@@ -7,6 +7,8 @@ sites:
     url: https://beignet-api.wisp.uno/
   - name: Beignet API (backup)
     url: http://beignet.deez.nz:15037/
+  - name: Delta AltStore Source
+    url: https://jacklebeignet.github.io/delta-altstore-source/
 
 assignees:
   - jacklebeignet
