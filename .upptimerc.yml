@@ -26,6 +26,8 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Discord
+      href: https://dsc.gg/beignet
 
 secrets:
   - NOTIFICATION_DISCORD_WEBHOOK_URL
